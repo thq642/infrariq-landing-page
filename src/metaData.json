@@ -1,0 +1,69 @@
+{
+  "components": [
+    {
+      "name": "MainView",
+      "data": {
+        "name": "Infrariq",
+        "bio": "Infrariq is a backend infrastructure for all my experiment and production website"
+      }
+    },
+    {
+      "name": "Divider",
+      "data": { "className": "my-4" }
+    },
+    {
+      "name": "SocialLinks",
+      "data": [
+        { "name": "github", "url": "https://github.com/thq642" },
+        { "name": "gmail", "url": "mailto:infrariq-info@globalriq.eu.org" },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/mikail.thoriq"
+        }
+      ]
+    },
+    {
+      "name": "Divider",
+      "data": {}
+    },
+    {
+      "name": "About",
+      "data": {
+        "title": "About this thing",
+        "description": "this is a api infrastructure for all my website"
+      }
+    },
+    {
+      "name": "Divider",
+      "data": {}
+    },
+    {
+      "name": "Cards",
+      "data":{
+        "title":"Projects host on this infrastructure",
+        "data": [
+          {
+            "title":"Image live compressor",
+            "description":"ngirit-cuy",
+            "url":"https://github.com/thq642/ngirit-cuy"
+          },
+          {
+            "title":"Kusonime Scrapper",
+            "description":"kusoraper-api",
+            "url":"https://github.com/thq642/kusoraper-api"
+          },
+          {
+            "title":"AnimeriqV1 Backend",
+            "description":"backend-animeriq",
+            "url":"https://gitlab.com/riq666/backend-animeriq"
+          },
+          {
+            "title":"AnimeriqV2 Backend",
+            "description":"animeriqv2-backend",
+            "url":"https://gitlab.com/riq666/animeriqv2-backend"
+          }
+        ]
+      }
+    }
+  ]
+}
